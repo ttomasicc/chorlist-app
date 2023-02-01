@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Chorlist</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="registration_form">Registration form</string>
+
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="have_an_account_log_in"><![CDATA[Have an account?]]> <u>Log in</u></string>
+    <string name="no_account_message"><![CDATA[Don\'t have an account?]]> <u>Register here.</u></string>
+
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="my_profile">My profile</string>
+
+    <string name="update_profile">Update profile</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="change_first_name">Change first name</string>
+    <string name="change_last_name">Change last name</string>
+    <string name="change_password">Change password</string>
+
+    <string name="empty_list_item">It\'s empty in here, try adding new items.</string>
+    <string name="add_item">Add item</string>
+
+    <string name="shopping_list">Shopping list</string>
+    <string name="shopping_list_not_found">Shopping list not found</string>
+    <string name="empty_shopping_lists">It\'s empty in here, try adding new shopping list.</string>
+    <string name="shopping_lists">Shopping lists</string>
+    <string name="expand_options">Expand options</string>
+    <string name="shopping_list_description">Shopping list description</string>
+    <string name="shopping_list_color">Color</string>
+
+    <string name="item_description">Item description</string>
+    <string name="item_successfully_added">Item successfully added</string>
+    <string name="update_item">Update item</string>
+    <string name="search_items">Search items…</string>
+    <string name="no_items_found">No items were found…</string>
+
+    <string name="service_not_available">Service currently not available</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="search">Search</string>
+
+    <string name="appwidget_text">Chorlist</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">Chorlist widget.</string>
+    <string name="shopping_list_widget">Shopping list</string>
+    <string name="shopping_list_dialog">Add to widget</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="add_shopping_list">Add shopping list</string>
+    <string name="update_shopping_list">Update shopping list</string>
+    <string name="generate_pdf">Generate PDF</string>
+
+    <string name="sb_permission_message">Permission needed!</string>
+</resources>
